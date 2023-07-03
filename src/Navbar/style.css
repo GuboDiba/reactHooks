@@ -1,0 +1,16 @@
+.nav{
+    margin-top: 3%;
+    background-color: green;
+    padding: 1%;
+
+    
+
+}
+.nav a{
+    text-decoration: none;
+    margin-left: 20%;
+    margin-bottom: 3%;
+    color: white;
+  
+    
+}

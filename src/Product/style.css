@@ -1,0 +1,28 @@
+body{
+    background-color: #e2e2e2;
+}
+
+.Products{
+display: flex;
+flex-wrap: wrap;
+margin-left: 10%;
+
+}
+#img{
+    width: 70%;
+    height: 70%;
+    object-fit: cover;
+    margin-bottom: 3%;
+}
+.productdiv{
+    margin-bottom: 10%;
+    text-align: center;
+}
+.addproduct{
+    background-color: white;
+    padding: 1%;
+    margin-left: 90%;
+    margin-top: 2%;
+    border: none;
+    border-radius: 5px;
+}
